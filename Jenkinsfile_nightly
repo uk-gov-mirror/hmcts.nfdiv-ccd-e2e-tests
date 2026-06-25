@@ -10,7 +10,7 @@
 //         ])
 // ])
 
-// @Library("Infrastructure") _
+// @Library("Infrastructure@2.0.0") _
 
 // String product = "nfdiv"
 // String component = "ccd-e2e-tests"
